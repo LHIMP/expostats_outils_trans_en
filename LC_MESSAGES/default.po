@@ -976,7 +976,15 @@ msgid "riskband.t3.title"
 msgstr "Comparative analysis - Risk bands"
 
 msgid "riskband.t3"
-msgstr "The graph below provides, for each category, the probability distribution of critical percentile uncertainty across 5 categories: Probability that the true 95th percentile is less than 1% of the OEL, between 1% and 10% of the OEL, between 10% and 50% of the OEL, between 50% and 100% of the OEL, and probability that it is greater than the OEL. This structure is based on the AIHA risk classification. The red band corresponds to the probability of an overexposure situation (risk of overexposure)."
+msgstr ""
+"Then, one should select a threshold for the probability that this criterion "
+"is met, above which remedial action (or more sampling) should be triggered : "
+"for instance, above 5% chance that the overexposure criterion is met, action "
+"should be taken. The traditional threshold for this probability is 5% "
+"(hence, we should be sure with at least 95% certainty that there is no "
+"overexposure). French and British occupational health institutions have "
+"proposed to use 30% instead of 5%, as a pragmatic avenue to limit declaring "
+"too many situations truely acceptable as unacceptable."
 
 # #########  TOOL3
 # #############################################################
@@ -1168,7 +1176,7 @@ msgid "server.w.1"
 msgstr "Select a worker"
 
 msgid "boxplot.work.1"
-msgstr "Worker with n>2"
+msgstr "Worker with n>3"
 
 msgid "boxplot.work.2"
 msgstr "Concentration"
