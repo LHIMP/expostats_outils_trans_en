@@ -82,6 +82,9 @@ msgstr "Parameter estimates"
 msgid "subtab.name.3"
 msgstr "Risk assessment"
 
+msgid "subtab.name.4"
+msgstr "AIHA risk bands"
+
 # #########  TOOL2
 msgid "main.title.t2"
 msgstr "Tool2 : Data interpretation accounting for between-worker variations"
@@ -1489,3 +1492,9 @@ msgstr "Adequately controlled"
 
 msgid "server.2.2"
 msgstr "Well controlled"
+
+msgid "p95.graph.12.1"
+msgstr ""
+"The graph below provides the the probability distribution of the uncertainty "
+"around the 95th percentile across five categories : probability that "
+"true "
